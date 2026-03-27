@@ -34,7 +34,7 @@ STEP 9: Select “add simple PDU” from tool bar and place it in source and des
 # OUTPUT
 <img width="519" height="295" alt="image" src="https://github.com/user-attachments/assets/3dc440a8-e38a-4708-b309-dc8e382bd257" />
 
-
+    
 # RESULT
 
 Thus the computers in same network are able to communicate with each other and the communication between them were verified.
